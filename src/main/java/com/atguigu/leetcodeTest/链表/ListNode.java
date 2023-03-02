@@ -1,4 +1,4 @@
-package com.atguigu.leetcodeTest;
+package com.atguigu.leetcodeTest.链表;
 
 public class ListNode {
     int val;

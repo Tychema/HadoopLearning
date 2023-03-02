@@ -1,4 +1,6 @@
-package com.atguigu.leetcodeTest;
+package com.atguigu.leetcodeTest.链表;
+
+import com.atguigu.leetcodeTest.链表.ListNode;
 
 public class listNodePartition {
     public static void main(String[] args) {
